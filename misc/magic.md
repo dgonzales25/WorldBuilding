@@ -12,7 +12,8 @@ The processing of this magical power comes from breathing. Similar to oxygen the
 
 ## Magic items
 
-Enchanted Magical items will radiate magical energy and slowly lose their magic properties unless recharged by something or someone.
+Enchanted Magical items will radiate magical energy and slowly lose their magic properties unless
+ recharged by something or someone.
 
 Potions are also a magical item that slowly lose their magic potency over time
 
