@@ -23,4 +23,8 @@ One of very few who can de-cypher how founder tech works.
 
 Starts his company by buying stolen [Founder](../races/founders.md) artifacts from The Pirate King of [Raxmar](../moko/aethos/raxmar.md)
 
-iLater uses the wurmcoils to turn anyone against him in the university into magic metal. 
+iLater uses the fangwurms to turn anyone against him in the university into magic metal.
+
+## History
+
+Was a crewmember of [Umbro Augusto](umbro_augusto.md) with his friends xxxx and yyyy. He was banshished from [Raxmar](../moko/aethos/raxmar.md) and left with his two friends. They were top artificers and managed to make a company. yyyy was captured and killed by Bad Bitch leader of The Chosen of Aethos. xxxx blamed Dranus for yyyy death and left the company.

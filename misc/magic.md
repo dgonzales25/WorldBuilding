@@ -2,6 +2,10 @@
 
 # Magic
 
+## Overview
+
+Magic in this world is energy. There is no creating or destroying material. Can't just make fire appear there needs to be a source. However this can be used to incorporate different elements or used to make attacks stronger or weaker. Putting magical energy into fire will make it burn hotter and bigger. Takes magical stamina to do things for a long time or learn how to channel energy quickly. So levitating a small object is easy but levitating a city is impossible. Elements can give or take magical energy.
+
 ## Source
 
 Many creatures can harness the magical powers around them. In the air is magical power from the environment. Magics that match the type relating to the surrounding are stronger and easier to cast where opposite magics are harder and weaker (Ice magic is easier in the arctic where fire is harder). 
