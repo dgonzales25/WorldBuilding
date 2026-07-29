@@ -4,4 +4,4 @@
 
 ## Overview
 
-*To be detailed.*
+Fae is a wistful, dreamlike world of fairies, soaked in wild magic that follows its own logic rather than any that outsiders would recognize. Time and reason both bend a little here — travelers have a way of losing track of both.
