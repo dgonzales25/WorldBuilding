@@ -1,0 +1,1 @@
+When the roots are disturbed a barb mine seed pod will explode. the seeds are fired out and pierce the creature that was unfortunate enough to walk by. the blood the seed gets will power it's growth and the original plant will slowly regrow a seed pod

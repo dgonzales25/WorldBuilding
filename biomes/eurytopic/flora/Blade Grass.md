@@ -1,0 +1,1 @@
+Blade Grass is a seraded grass that cuts animals as they walk by in order to absorb magical energy from their blood

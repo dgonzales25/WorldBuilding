@@ -1,0 +1,1 @@
+trapjaws are like a large bear trap that will spring when something walks over them. if the creature escapes the some seed spikes might break off in the creature and fall off somewhere to start a new plant
