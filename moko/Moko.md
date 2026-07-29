@@ -1,34 +1,37 @@
-# Overview 
+[Home](../Home.md) · [Solar System](../solar-system/Solar%20System.md)
 
-Moko is a magical dyson sphere. there is a core of magical energy that act similar to a sun. the core provides heat and warm and pushes objects away which give a sense equivalent to gravity. The core pulses which creates a day night cycle. Half of the Dyson sphere doesn't get any light 
+# Moko
 
+## Overview
 
-## History 
+Moko is a planet in the [Solar System](../solar-system/Solar%20System.md), set apart from the other worlds by its Core — a naturally occurring wellspring of magical energy at its heart, far older than the [Founders](../species/Founders.md) who would later exploit it. The Core saturates the whole planet in magic, which is why Moko's flora, fauna, and peoples are so much more attuned to magic than anywhere else in the system.
 
-### Pre Virus war
+## History
 
-This world's main export was [Magic Metal](Magic%20Metal.md) the inhabitants of this world where treated like livestock genetically engineered to produces as much magical energy as possible. The [Founders](Founders.md) where not a cruel race before the [Virus War](Founders.md#virus-war) and pumped [Ancestors](Ancestors.md) full of drugs to keep them complacent and produce more magical energy. 
+### Pre Virus War
 
-### Virus war
+When the Founders arrived, they found Moko already home to magical creatures sustained by the Core. This world's main export became [Magic Metal](../misc/Magic%20Metal.md); its inhabitants were treated like livestock, genetically engineered to produce as much magical energy as possible. The Founders were not a cruel race before the [Virus War](../species/Founders.md#virus-war), and pumped [Ancestors](../species/ancestries/Ancestors.md) full of drugs to keep them complacent and productive.
 
-This is a world that the [Founders](Founders.md) fought between themselves after the virus. The virus faction was winning the battle over the world and the other faction decided to emp the world to prevent the spread of the virus. Causing the death of every one on the planet. None of the planets inhabitants where killed from the emp so they continued to evolve and thrive.
+### Virus War
 
-### Post Virus war
+Moko was one of the worlds the Founders fought between themselves after the [Hubris Virus](../plot/Hubris%20Virus.md) spread. The virus faction was winning the battle for the world, so the other faction EMP'd it to stop the spread — killing every Founder on Moko. None of the planet's native inhabitants were harmed by the EMP, so they continued to evolve and thrive.
 
-The creatures of Moko continued evolving with the absence of the [Founders](Founders.md). [Ancestors](Ancestors.md) became an apex predator due to their intelligence and magical prowess. Eventually forming societies and cities.
+### Post Virus War
+
+The creatures of Moko continued evolving in the Founders' absence. [Ancestors](../species/ancestries/Ancestors.md) became the apex predator, thanks to their intelligence and magical prowess, eventually forming societies and cities.
 
 ## Continents
- 
- - [Aethos](aethos/aethos.md)
- - [Dorath](dorath/dorath.md)
- - [Void](void/void.md)
+
+- [Aethos](aethos/aethos.md)
+- [Dorath](dorath/dorath.md)
+- [Void](void/void.md)
 
 ## Religions
 
-### Church of The Missing
+### Church of the Missing
 
-The Church of the Missing worship the some old description of the [Founders](Founders.md) they call The Missing. The main faith is believing that The Missing will return one day to teach them how to make it to the afterlife. Founder artifacts are prized possessions in this faith and the capital of the church has tech to convert blood to magical energy. Blood tithes are common in the capital.
+The Church of the Missing worships an old description of the Founders, whom they call the Missing. Their faith holds that the Missing will one day return to teach them how to reach the afterlife. Founder artifacts are prized possessions, and the capital of the church has tech to convert blood into magical energy — blood tithes are common there.
 
 ### Elliptism
 
-Elliptism is the a polytheism belief system that thinks the world is a balancing act between creation and decay. Neither is inherently good or bad and one leads to another. This religion has two main gods Leon and Noel. Circles are important symbology in Elliptism. 
+Elliptism is a polytheistic belief system holding that the world is a balancing act between creation and decay — neither is inherently good nor bad, and one leads to the other. Its two main gods are Leon and Noel; circles are important symbology in the faith.
