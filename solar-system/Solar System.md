@@ -12,4 +12,7 @@ Long before the [Founders](../species/Founders.md) built their empire, this syst
 - [Heaven](Heaven.md) — a militant angelic society built on law and hierarchy.
 - [Fae](Fae.md) — a wistful world of fairies and wild magic.
 - [Hell](Hell.md) — a hostile world ruled by devils and demons, where power and cunning decide your place.
-- [Null Moon](Null%20Moon.md) — not a world at all, but a Founders' base devoid of ambient magic.
+
+## Moons
+
+- [Null Moon](Null%20Moon.md) — a tidally locked moon of Moko, magic-poor except for a thin band of life on the side that faces its parent world. The Founders built a base here.
