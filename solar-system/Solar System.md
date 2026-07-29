@@ -9,9 +9,8 @@ Long before the [Founders](../species/Founders.md) built their empire, this syst
 ## Worlds
 
 - [Moko](../moko/Moko.md) — home to a naturally occurring Core of magical energy; the Founders found it already teeming with magical life.
-- [Heaven](Heaven.md) — a militant angelic society built on law and hierarchy.
+- [Cinder](cinder/Cinder.md) — a Venus-like world split between two warring societies: [Heaven](cinder/Heaven.md) in the habitable clouds and [Hell](cinder/Hell.md) on the scorched surface.
 - [Fae](Fae.md) — a wistful world of fairies and wild magic.
-- [Hell](Hell.md) — a hostile world ruled by devils and demons, where power and cunning decide your place.
 
 ## Moons
 

@@ -9,7 +9,6 @@ A [magical universe](misc/Magic.md) with a hidden sci-fi past. Everyone is born 
 See the [Solar System](solar-system/Solar%20System.md) for the full write-up.
 
 - [Moko](moko/Moko.md)
-- [Heaven](solar-system/Heaven.md)
+- [Cinder](solar-system/cinder/Cinder.md) — home of [Heaven](solar-system/cinder/Heaven.md) and [Hell](solar-system/cinder/Hell.md)
 - [Fae](solar-system/Fae.md)
-- [Hell](solar-system/Hell.md)
 - [Null Moon](solar-system/Null%20Moon.md) — a moon of Moko
