@@ -8,7 +8,18 @@ A [magical universe](misc/Magic.md) with a hidden sci-fi past. Everyone is born 
 
 See the [Solar System](solar-system/Solar%20System.md) for the full write-up.
 
-- [Moko](moko/Moko.md)
+- [Moko](moko/Moko.md) — tidally locked with Null
+- [Null](null/Null.md) — tidally locked with Moko, produces no magic of its own
 - [Cinder](solar-system/cinder/Cinder.md) — home of [Heaven](solar-system/cinder/Heaven.md) and [Hell](solar-system/cinder/Hell.md)
 - [Fae](solar-system/Fae.md)
-- [Null Moon](solar-system/Null%20Moon.md) — a moon of Moko
+
+## Timeline
+
+- [Age (1) of the Founders](ages/Age%20%281%29%20of%20the%20Founders.md)
+- [Age (2) of Hubris](ages/Age%20%282%29%20of%20Hubris.md)
+- [Age (3) of Darkness](ages/Age%20%283%29%20of%20Darkness.md)
+- [Age (4) of Magic](ages/Age%20%284%29%20of%20Magic.md)
+
+## Plot
+
+See [Plot](plot/Plot.md) for the campaign outline.

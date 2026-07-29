@@ -13,7 +13,7 @@ Cinder is a Venus-like world: a scorched, cloud-choked surface far too hostile f
 
 ## Wildlife
 
-- [Sky Jellies](Sky%20Jellies.md) — drift through the cloud band alongside Heaven's floating cities.
+- [Sky Jellies](../../biomes/eurytopic/fauna/Sky%20jellies.md) — drift through the cloud band alongside Heaven's floating cities.
 
 ## The War
 

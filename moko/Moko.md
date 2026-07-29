@@ -4,7 +4,7 @@
 
 ## Overview
 
-Moko is a planet in the [Solar System](../solar-system/Solar%20System.md), set apart from the other worlds by its Core — a naturally occurring wellspring of magical energy at its heart, far older than the [Founders](../species/Founders.md) who would later exploit it. The Core saturates the whole planet in magic, which is why Moko's flora, fauna, and peoples are so much more attuned to magic than anywhere else in the system.
+Moko is a planet in the [Solar System](../solar-system/Solar%20System.md), tidally locked with its neighbor [Null](../null/Null.md). Its poles are icy; the hemisphere facing Null carries more ocean, while the far side is mostly desert. Like most worlds, Moko's magic comes from its planetary core — but unlike Null, which produces none of its own, Moko radiates enough that even its tidally locked neighbor feeds on the trickle that reaches it. When the [Founders](../species/Founders.md) arrived, they found Moko already home to magical creatures sustained by that core.
 
 ## History
 
@@ -14,7 +14,7 @@ When the Founders arrived, they found Moko already home to magical creatures sus
 
 ### Virus War
 
-Moko was one of the worlds the Founders fought between themselves after the [Hubris Virus](../plot/Hubris%20Virus.md) spread. The virus faction was winning the battle for the world, so the other faction EMP'd it to stop the spread — killing every Founder on Moko. None of the planet's native inhabitants were harmed by the EMP, so they continued to evolve and thrive.
+Moko was one of the worlds the Founders fought between themselves after the [Hubris Virus](../ages/Age%20%282%29%20of%20Hubris.md) spread. The virus faction was winning the battle for the world, so the other faction EMP'd it to stop the spread — killing every Founder on Moko. None of the planet's native inhabitants were harmed by the EMP, so they continued to evolve and thrive.
 
 ### Post Virus War
 

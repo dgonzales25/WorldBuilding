@@ -8,10 +8,7 @@ Long before the [Founders](../species/Founders.md) built their empire, this syst
 
 ## Worlds
 
-- [Moko](../moko/Moko.md) — home to a naturally occurring Core of magical energy; the Founders found it already teeming with magical life.
+- [Moko](../moko/Moko.md) — home to a naturally occurring magical core; the Founders found it already teeming with magical life.
+- [Null](../null/Null.md) — tidally locked with Moko, and unlike its neighbor, produces no magic of its own.
 - [Cinder](cinder/Cinder.md) — a Venus-like world split between two warring societies: [Heaven](cinder/Heaven.md) in the habitable clouds and [Hell](cinder/Hell.md) on the scorched surface.
 - [Fae](Fae.md) — a wistful world of fairies and wild magic.
-
-## Moons
-
-- [Null Moon](Null%20Moon.md) — a tidally locked moon of Moko, magic-poor except for a thin band of life on the side that faces its parent world. The Founders built a base here.

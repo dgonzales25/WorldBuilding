@@ -8,4 +8,6 @@ Fangwurms are worm-like creatures that hunt using magical sight. A Fangwurm crus
 
 ## Origin
 
-Fangwurms are native to the Moko-facing side of [Null Moon](../../../solar-system/Null%20Moon.md), alongside [Flergs](../../../solar-system/Flergs.md). The [Founders](../../../species/Founders.md) brought them to Moko and used them to harvest Magic Metal directly from living creatures — [Void](../../../moko/void/void.md) was one of the first places they tested them, wiping out its ecosystem in the process.
+The [Founders](../../../species/Founders.md) first found Fangwurms on [Null](../../../null/Null.md) and genetically modified them to thrive on Moko, where they were used to produce Magic Metal — [Void](../../../moko/void/void.md) was one of the first places they tested them, wiping out its ecosystem in the process.
+
+[Flergs](Flergs.md) are the natural prey of Fangwurms on Null, and were brought over to Moko to keep the Fangwurms alive before the modifications took hold.

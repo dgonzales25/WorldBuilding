@@ -1,2 +1,0 @@
-# Overview 
-The Hubris Virus was created by a group of [[Ancestors]] coming together across multiple sub groups and professions. With their expertise over [[Magic Metal]] and the [[Founders]] they where able to broadcast the virus to save their world and start the [Virus war](Founders.md#Virus War)
