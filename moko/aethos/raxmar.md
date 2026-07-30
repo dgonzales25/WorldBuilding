@@ -1,4 +1,4 @@
-[Home](Home.md)
+[Home](../../Home.md) · [Aethos](aethos.md)
 
 # Raxmar
 
