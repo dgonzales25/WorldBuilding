@@ -6,6 +6,10 @@
 
 Flergburg is a massive city built on the back of a single giant [Flerg](../../biomes/eurytopic/fauna/Flergs.md) — also named Flergburg — one of the original Flergs the [Founders](../../species/Founders.md) brought over to Moko. It was one of the Founders' experiments in preventing Flerg [division](../../biomes/eurytopic/fauna/Flergs.md#reproduction): given a single massive piece of Magic Metal instead of ever dividing, it just kept growing instead, eventually large enough to carry a city on its back. Its natural beauty is no accident: residents take great care not to upset their host, favoring parks and green space over heavy construction that might provoke a shrug from something this size.
 
+## People
+
+Flergburg's magical leaning is toward nurturing and bending nature rather than conflict. Its people can put up some defense if pressed, but they are not a fighting people — their strength lies in coaxing living things, their Flerg included, into doing what the city needs.
+
 ## Reverence
 
 The Flerg is celebrated by the people who live on it, and Flergburg holds regular festivals where residents bring it magical gifts, keeping it well fed and, hopefully, well disposed toward the city on its back. One gift is carefully avoided: a piece of Magic Metal matching the size of the one the Founders originally gave it, which would let it divide again and split the city in two.
