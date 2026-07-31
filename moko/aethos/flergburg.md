@@ -17,3 +17,7 @@ Flergburg feeds its Flerg's need to absorb magic by keeping the city thick with 
 ## The Shifting Streets
 
 [Flergs](../../biomes/eurytopic/fauna/Flergs.md) like to rearrange the things stuck to their bodies, slowly trying out different arrangements — and in Flergburg, that means whole buildings creep across the Flerg's back over weeks and months as it shifts them around. Nothing moves fast enough to be dangerous, but street maps go out of date, and a building's address is really just wherever it happens to be that season.
+
+## The Wake
+
+As Flergburg crawls across [Aethos](aethos.md), it clears a path through the terrain, leaving fertile, cleared soil behind it. Farmers plant fields in this wake and tend them until they drift too far behind the city to be worth the walk, then move on to newer land closer to home.
