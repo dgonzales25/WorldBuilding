@@ -12,4 +12,5 @@ Church of the Founders
 Believe that the founders were a type of older sibling looking after the younger generation by providing technology. Have a vast collection of relics
 
 ## Chosen of Aethos
-THe Chosen of Aethos are a mysterious group linked to the Church of the Founders that will stop at nothing to find and take Founder artifacts to bring back to the church. Lead by (Main Church of the Founder bad ass bitch) their goal is to try and control Aethos. (Main Church of the Founder bad ass bitch) and [Dranus](../../characters/dranus_dovo.md) do not get along.
+
+See [Chosen of Aethos](../../characters/chosen_of_aethos.md) — the militant sect that grew out of the Church of the Founders, now led by [Dranus Dovo](../../characters/dranus_dovo.md).
