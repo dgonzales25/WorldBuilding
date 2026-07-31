@@ -1,10 +1,10 @@
-[Home](Home.md)
+[Home](../../Home.md) · [Aethos](aethos.md)
 
 # Vael
 
 ## Overview
 
-The oldest and largest city in all of [Aethos](aethos.md). This city is home to the largest supply of Founder artifacts due to the Church of the Founders collecting them over the years. The city is created on top of an old Founders [Magic Metal](Magic%20Metal.md) harvesting station. This station would extract the magic metal from the scale teeth of the fangwurms.
+The oldest and largest city in all of [Aethos](aethos.md). This city is home to the largest supply of Founder artifacts due to the Church of the Founders collecting them over the years. The city is created on top of an old Founders [Magic Metal](../../misc/Magic%20Metal.md) harvesting station. This station would extract the magic metal from the scale teeth of the [Fangwurms](../../biomes/eurytopic/fauna/Fangwurms.md).
 
 ## Religion
 

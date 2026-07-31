@@ -9,6 +9,7 @@ Aethos has no unified government and is made up of many different city states.
 - [Hexguard](hexguard.md)
 - [Vael](vael.md)
 - [Raxmar](raxmar.md)
+- [Flergburg](flergburg.md)
 
 ## Internal Conflict
 
