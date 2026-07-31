@@ -10,6 +10,10 @@ Flergburg is a massive city built on the back of a single giant [Flerg](../../bi
 
 Flergburg's magical leaning is toward nurturing and bending nature rather than conflict. Its people can put up some defense if pressed, but they are not a fighting people — their strength lies in coaxing living things, their Flerg included, into doing what the city needs.
 
+## Neutrality
+
+Flergburg largely stays out of [Aethos's](aethos.md) internal politics. When the city drifts too close to another city-state's borders, residents steer it away by laying a long trail of offerings in the direction they'd rather it go.
+
 ## Reverence
 
 The Flerg is celebrated by the people who live on it, and Flergburg holds regular festivals where residents bring it magical gifts, keeping it well fed and, hopefully, well disposed toward the city on its back. One gift is carefully avoided: a piece of Magic Metal matching the size of the one the Founders originally gave it, which would let it divide again and split the city in two.
