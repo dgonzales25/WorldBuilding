@@ -8,6 +8,6 @@ Flergs have a gelatinous exterior with many wisp-like tentacles coming off the m
 
 Flergs can't process magic directly and need to absorb it via physical contact. They collect magical plants and fungi and affix the objects to themselves, sometimes absorbing the magical properties of the plant — forming a symbiotic relationship.
 
-Flergs can be befriended by giving them a magical gift. Farmers often think of them as pests, since they'll steal plants and equipment.
+Flergs like to rearrange the things stuck to their bodies, slowly shifting them around to try out different styles. Farmers often think of them as pests, since they'll steal plants and equipment. Flergs can be befriended by giving them a magical gift.
 
 When Flergs die, their gelatinous exterior becomes a liquid. This liquid is used as a key ingredient in potion and drug making.

@@ -9,3 +9,7 @@ Flergburg is a massive city built on the back of a single giant [Flerg](../../bi
 ## Life on the Flerg
 
 Flergburg feeds its Flerg's need to absorb magic by keeping the city thick with magical plants and fungi, which the Flerg's tendrils gather and affix to its own gelatinous hide — the same symbiotic relationship Flergs form everywhere, just scaled up to city size.
+
+## The Shifting Streets
+
+[Flergs](../../biomes/eurytopic/fauna/Flergs.md) like to rearrange the things stuck to their bodies, slowly trying out different arrangements — and in Flergburg, that means whole buildings creep across the Flerg's back over weeks and months as it shifts them around. Nothing moves fast enough to be dangerous, but street maps go out of date, and a building's address is really just wherever it happens to be that season.
