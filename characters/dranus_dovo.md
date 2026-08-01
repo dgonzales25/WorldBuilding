@@ -23,10 +23,14 @@ One of very few who can de-cypher how founder tech works.
 
 Starts his company by buying stolen [Founder](../species/Founders.md) artifacts from The Pirate King of [Raxmar](../moko/aethos/raxmar.md)
 
-iLater uses the fangwurms to turn anyone against him in the university into magic metal.
+Later uses the fangwurms to turn anyone against him in the university into magic metal.
 
 ## History
 
-Was a crewmember of [Umbro Augusto](umbro_augusto.md) with his friends xxxx and yyyy. He was banished from [Raxmar](../moko/aethos/raxmar.md) and left with his two friends. They were top artificers and managed to make a company. yyyy was captured and killed by [Isaera](../moko/aethos/vael.md#isaera), leader of the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos). xxxx blamed Dranus for yyyy's death and left the company.
+Rose fast through [Umbro Augusto's](umbro_augusto.md) crew to first mate, but his hot-headedness got the better of him: during one operation he botched the ambush and murdered a merchant crew outright to take their ship, breaking the one rule the crew never broke — captured crews were always set adrift to safety, never killed. Umbro, seeing his own parents' murder mirrored in it, banished him on the spot, along with two other crewmates, xxxx and yyyy, whom Umbro didn't want consumed by the pirate life either.
 
-Dranus never got over the banishment. He'd looked up to [Umbro](umbro_augusto.md) as almost a mentor, and being cast out — however fair the reason — curdled into a resentment he never speaks of. That resentment, combined with yyyy's death, turned the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos) into his standing enemy: he uses his fortune and his knack for founder tech to beat them to Founder artifacts and magic metal every chance he gets, and he and [Isaera](../moko/aethos/vael.md#isaera) clash constantly over the same finds. He has never told Umbro about any of it.
+The three of them, all top artificers, pooled what they knew and built a company from nothing. yyyy was later captured and killed by [Isaera](../moko/aethos/vael.md#isaera), leader of the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos), after the company's dealings in stolen Founder artifacts put them on the Chosen's radar. xxxx blamed Dranus for yyyy's death and left the company for good.
+
+Dranus has never forgiven himself for what happened aboard that ship, and he's never told Umbro he knows the banishment was deserved. It's easier to remember it as a betrayal than to sit with what he did to earn it, and that unresolved guilt curdled into an old resentment he still won't name. Between that and yyyy's death, the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos) became his standing enemy: he uses his fortune and his knack for founder tech to beat them to Founder artifacts and magic metal every chance he gets, and he and [Isaera](../moko/aethos/vael.md#isaera) clash constantly over the same finds.
+
+That same drive eventually built [Hexguard](../moko/aethos/hexguard.md): using his artificer talent to mass-manufacture magical machines, he built an empire from the ground up and founded its mage college to funnel students straight into his company.

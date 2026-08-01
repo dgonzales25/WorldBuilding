@@ -20,8 +20,8 @@ They don't ask permission. Villages, ruins, and rival city-states that hold Foun
 
 Their history includes:
 
-- Ransacking a druidic enclave in [Flergburg](flergburg.md) after learning its people were hiding a powerful Founder artifact, killing nearly everyone in the settlement — the massacre [Umbro Augusto](../../characters/umbro_augusto.md) survived as a child, led personally by [Isaera](#isaera).
-- Later capturing and killing one of [Dranus Dovo's](../../characters/dranus_dovo.md) former business partners, driving a permanent wedge between Dranus and the group.
+- Raiding a druidic enclave in [Flergburg](flergburg.md), led personally by [Isaera](#isaera), after learning its people were guarding a map to a hidden supply of magical artifacts — not an artifact itself, since a Flerg would never leave something that magically dense sitting hidden on its own back. The raid killed nearly everyone in the enclave; Isaera believes it erased all knowledge of the map, not knowing [Umbro Augusto](../../characters/umbro_augusto.md) escaped as a child carrying it.
+- Later capturing and killing one of [Dranus Dovo's](../../characters/dranus_dovo.md) business partners after his company's dealings in stolen Founder artifacts put them on the Chosen's radar, driving a permanent wedge between Dranus and the group.
 - [Dranus Dovo](../../characters/dranus_dovo.md), still burning from his banishment from [Raxmar](raxmar.md) and from what the Chosen took from him, has made opposing them a permanent fixture of his business — the two sides regularly collide racing each other to the same Founder artifacts and magic metal deposits.
 
 ### Isaera
