@@ -2,6 +2,8 @@
 
 All humanoids share ancestors but have specialized to their environment with different characteristics between groups of people. The domestication and modification of their species made many different groups with affiliation to certain climates on [Moko](../../moko/Moko.md). After the [Virus War](../Founders.md#virus-war) many groups intermingled leading to many diverse humanoids.
 
+Elves — [Wood](Wood%20Elves.md), [Blood](Blood%20Elves.md), and [High](High%20Elves.md) alike — live considerably longer than Humans and Dwarves, sometimes for centuries.
+
 ## Drugs
 
 Drugs have evolved with humanoid. Drugs vary in lots of ways
