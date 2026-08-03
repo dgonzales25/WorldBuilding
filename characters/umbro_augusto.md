@@ -26,7 +26,7 @@ He rose through the ranks until his ship was attacked by the reigning Pirate Kin
 
 [Dranus](dranus_dovo.md) rose fast through Umbro's crew, quickly earning a place as first mate — but he was hot-headed and impatient. During one operation he botched the ambush and murdered a merchant crew outright to take their ship, instead of setting them adrift like every crew before them.
 
-Umbro saw his own parents' deaths in it and banished Dranus on the spot, along with two other crewmates, xxxxx and yyy, whom he didn't want consumed by the pirate life either.
+Umbro saw his own parents' deaths in it and banished Dranus on the spot, along with two other crewmates, Petra and Talwyn, whom he didn't want consumed by the pirate life either.
 
 ## MO
 
