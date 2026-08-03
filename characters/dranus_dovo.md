@@ -21,7 +21,7 @@ Null Field - Prevents all magical energy in a spherical zone
 
 One of very few who can de-cypher how founder tech works.
 
-Starts his company by buying stolen [Founder](../species/Founders.md) artifacts from The Pirate King of [Raxmar](../moko/aethos/raxmar.md)
+After being kicked out of Umbro's crew, starts his company by buying stolen [Founder](../species/Founders.md) artifacts from [Raxmar's](../moko/aethos/raxmar.md) other factions
 
 Later uses the fangwurms to turn anyone against him in the university into magic metal.
 

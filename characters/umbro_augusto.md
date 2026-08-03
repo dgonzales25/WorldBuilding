@@ -4,7 +4,7 @@
 
 ## Overview
 
-Umbro Augusto (also known as the Shark of Raxmar) is the Pirate King of Raxmar, known for his deadly aim and his quick shapeshifting.
+Umbro Augusto (also known as the Shark of Raxmar) leads one of the most powerful crews in Raxmar's gang-controlled docks, known for his deadly aim and his quick shapeshifting.
 
 ## Origin
 
@@ -20,7 +20,7 @@ Having nowhere else to go, he arrived in Raxmar hoping to find something to eat 
 
 He built his own crew and made a specialty of ambush: bursting from the water as a shark to board foreign vessels, setting the captured crew adrift on rowboats within safe reach of shore, and sailing the ship itself back to his lair to be scrapped and sold to other boat builders. Whatever loot and artifacts came aboard, his crew kept.
 
-He rose through the ranks until his ship was attacked by the reigning Pirate King. He won, leaping from the water as a shark to kill the Pirate King mid-air with his pistols, and took the crown for himself.
+He rose fast through the ranks of the crew he'd joined, and eventually broke off to found his own — carving out a stretch of Raxmar's docks as his territory and becoming one of the most powerful crew leaders in the city.
 
 ## The Banishment of Dranus
 
