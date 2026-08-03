@@ -27,7 +27,9 @@ Later uses the fangwurms to turn anyone against him in the university into magic
 
 ## History
 
-Rose fast through [Umbro Augusto's](umbro_augusto.md) crew to first mate, but his hot-headedness got the better of him: during one operation he botched the ambush and murdered a merchant crew outright to take their ship, breaking the one rule the crew never broke — captured crews were always set adrift to safety, never killed. Umbro, seeing his own parents' murder mirrored in it, banished him on the spot, along with two other crewmates, Petra and Talwyn, whom Umbro didn't want consumed by the pirate life either.
+Growing up in a well-known Vael family, Dranus spent his teenage years secretly disassembling Founder artifacts from the Church's collection to learn how they worked. In one notorious incident, he broke a part of a blood tithe machine, rendering the device useless. His family's standing was enough to spare him execution, but he was exiled from Vael all the same.
+
+With nowhere else to go, he made his way to [Raxmar](../moko/aethos/raxmar.md), where he rose fast through [Umbro Augusto's](umbro_augusto.md) crew to first mate, but his hot-headedness got the better of him: during one operation he botched the ambush and murdered a merchant crew outright to take their ship, breaking the one rule the crew never broke — captured crews were always set adrift to safety, never killed. Umbro, seeing his own parents' murder mirrored in it, banished him on the spot, along with two other crewmates, Petra and Talwyn, whom Umbro didn't want consumed by the pirate life either.
 
 The three of them, all top artificers, pooled what they knew and built a company from nothing. Talwyn was later captured and killed by [Isaera](../moko/aethos/vael.md#isaera), leader of the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos), after the company's dealings in stolen Founder artifacts put them on the Chosen's radar. Petra blamed Dranus for Talwyn's death and left the company for good.
 
