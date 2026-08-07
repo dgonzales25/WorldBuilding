@@ -31,3 +31,7 @@ It takes the blood of about 400 people to make enough metal for a sword.
 
 ## History
 Magic metal was invented by [The Founders](../species/Founders.md) in their quest for eternal life. It can be found naturally in fossils and in the ground but it is extremely rare, since it requires a magical being to die in a way that they don't decompose.
+
+## Ridgelines
+
+The Founders' interplanetary teleport network needed feeder routes on the ground, and they built those as buried Magic Metal conduits running dead straight between stations. Passive repulsion (see [Magic — Repulsiveness](Magic.md#repulsiveness)) has kept ambient dust and sediment from ever settling against them, and nothing outlasts Magic Metal's hardness — so thousands of years after the [Virus War](../species/Founders.md#virus-war) left them abandoned, the old routes are still there: bare, arrow-straight ridges crossing entire continents, with nothing growing on them and nothing burying them. Most people who live near one have no idea it's metal at all, let alone artificial — just an oddly clean, oddly straight rise in the land that erosion never seems to touch.
