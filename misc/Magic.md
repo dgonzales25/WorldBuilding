@@ -30,7 +30,11 @@ Using magic takes effort like flexing a muscle, since you're extracting the magi
 
 ## Repulsiveness
 
-Two sources of magical energy repel each other. Since all items have magical energy stored in them, a creature can use magical energy to force items away. In battle, weapons get deflected by the magical force of the opponent — this takes skill to do, since it requires flaring magical energy.
+Two sources of magical energy repel each other — like charges repel. [Null Metal](Null%20Metal.md) carries the opposite charge, so it's the one exception: instead of being pushed away by magic, it's pulled toward it.
+
+On its own this force is faint, on the order of a pound, whether it's the repulsion between two charged objects or the pull toward something null. It's rarely strong enough to notice in the moment — but it never stops, and applied for centuries or millennia even a pound of constant push or pull is enough to keep dust from settling on an exposed surface, or to work a weak spot loose.
+
+Flaring changes the scale entirely: a creature can push far more magical energy through themselves for a brief moment, spiking that same force by orders of magnitude — enough to physically deflect an incoming weapon. This takes skill and can't be sustained; it's a controlled overload of the ambient baseline, not a different force.
 
 ## Magic items
 

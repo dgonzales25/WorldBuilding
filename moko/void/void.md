@@ -5,3 +5,7 @@
 ## Overview
 
 The Void is a continent with seemingly nothing and is mostly desert. This is one of the first places the [Founders](../../species/Founders.md) tested [Fangwurms](../../biomes/eurytopic/fauna/Fangwurms.md) on. They completely decimated the ecosystem and killed all living magical creatures. With the lack of natural predators, insects have taken over this continent.
+
+## The Canyons
+
+Void is the one place on Moko where more than one of these canyons shows up — several converge here (see [Magic Metal — Canyons](../../misc/Magic%20Metal.md#canyons)), a sign this was a hub rather than just a through-route, likely tied to the Founders' original Fangwurm testing. With no magically sensitive predators left to avoid them, the canyons have become corridors and nesting grounds for Void's insects, which seem untroubled by the faint repulsion that keeps every other living thing off the exposed seam. Nobody's ever mined them out, either — Void's canyons are some of the only ones left on Moko with their conduit still fully intact, for anyone desperate or foolish enough to fight past the insects for it.
