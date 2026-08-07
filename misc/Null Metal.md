@@ -4,11 +4,17 @@
 
 ## What is it
 
-Null metal is metal that has been formed with no natural magic lattices, which causes it to have no interaction with magic.
+Null metal is metal that has been formed with no natural magic lattices, so it can't hold or channel magic the way [Magic Metal](Magic%20Metal.md) does. That doesn't mean it's inert, though — forming without a lattice leaves it carrying the opposite charge from ordinary magic, so instead of repelling magically charged matter the way everything else does, it's drawn toward it.
 
 ## Properties
 
-Since there is no magical energy, it can't be blocked by magical force, which makes it deadly if it's made into a weapon.
+### Attraction
+
+Where two magically charged things repel each other, Null Metal and anything magically charged pull toward one another instead — opposite charges attract. This pull is faint under normal conditions, on the order of a pound of force, but it never lets up.
+
+### Unblockable
+
+Magical defense works by flaring your own charge to trigger repulsion against an incoming charge of matching sign. That defense does nothing against Null Metal, since it isn't the same sign to begin with — a flared parry doesn't push a Null blade away, and can even strengthen the pull toward it. This is what makes it so deadly as a weapon.
 
 ### Superinsulator
 
