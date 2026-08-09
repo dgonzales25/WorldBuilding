@@ -23,3 +23,7 @@ See the [Solar System](solar-system/Solar%20System.md) for the full write-up.
 ## Plot
 
 See [Plot](plot/Plot.md) for the campaign outline.
+
+## Characters
+
+See [Characters](characters/Characters.md) for key figures across the world.

@@ -8,7 +8,7 @@ The oldest and largest city in all of [Aethos](aethos.md). This city is home to 
 
 ## Government
 
-Vael is a theocracy. The Church of the Founders doesn't just hold religious authority — it rules the city outright, with [Isaera](#isaera) sitting at the head of both. There's no separate secular ruler to appeal to; Church doctrine and city law are the same thing.
+Vael is a theocracy. The Church of the Founders doesn't just hold religious authority — it rules the city outright, with [Isaera](../../characters/isaera.md) sitting at the head of both. There's no separate secular ruler to appeal to; Church doctrine and city law are the same thing.
 
 ## Religion
 
@@ -18,16 +18,16 @@ Believe that the founders were a type of older sibling looking after the younger
 
 ### Chosen of Aethos
 
-The Chosen of Aethos are the Church's militant arm, led by [Isaera](#isaera). Where the Church collects and reveres Founder relics, the Chosen go out and take them — hunting down [Founder](../../species/Founders.md) artifacts and [Magic Metal](../../misc/Magic%20Metal.md) wherever they can be found and hoarding them back to Vael. To the Chosen, artifacts and magic metal aren't just relics to be studied; they're leverage, and the group uses that leverage to buy influence in the constant political conflict between Aethos's city-states.
+The Chosen of Aethos are the Church's militant arm, led by [Isaera](../../characters/isaera.md). Where the Church collects and reveres Founder relics, the Chosen go out and take them — hunting down [Founder](../../species/Founders.md) artifacts and [Magic Metal](../../misc/Magic%20Metal.md) wherever they can be found and hoarding them back to Vael. To the Chosen, artifacts and magic metal aren't just relics to be studied; they're leverage, and the group uses that leverage to buy influence in the constant political conflict between Aethos's city-states.
 
 They don't ask permission. Villages, ruins, and rival city-states that hold Founder tech or magic metal are treated as fair game, and anyone who hides a find from them is treated as an enemy of the Church. They are feared as much as the Church is respected.
 
 Their history includes:
 
-- Raiding a druidic enclave in [Flergburg](flergburg.md), led personally by [Isaera](#isaera), after learning its people were guarding a map to a hidden supply of magical artifacts — not an artifact itself, since a Flerg would never leave something that magically dense sitting hidden on its own back. The raid killed nearly everyone in the enclave; Isaera believes it erased all knowledge of the map, not knowing [Umbro Augusto](../../characters/umbro_augusto.md) escaped as a child carrying it.
+- Raiding a druidic enclave in [Flergburg](flergburg.md), led personally by [Isaera](../../characters/isaera.md), after learning its people were guarding a map to a hidden supply of magical artifacts — not an artifact itself, since a Flerg would never leave something that magically dense sitting hidden on its own back. The raid killed nearly everyone in the enclave; Isaera believes it erased all knowledge of the map, not knowing [Umbro Augusto](../../characters/umbro_augusto.md) escaped as a child carrying it.
 - Later capturing and killing Talwyn, one of [Dranus Dovo's](../../characters/dranus_dovo.md) business partners, after his company's dealings in stolen Founder artifacts put them on the Chosen's radar, driving a permanent wedge between Dranus and the group.
 - [Dranus Dovo](../../characters/dranus_dovo.md), still burning from his banishment from [Raxmar](raxmar.md) and from what the Chosen took from him, has made opposing them a permanent fixture of his business — the two sides regularly collide racing each other to the same Founder artifacts and magic metal deposits.
 
 ### Isaera
 
-Isaera is a [High Elf](../../species/ancestries/High%20Elves.md) — an Ancestor lineage closely related to Wood Elves and Blood Elves, though High Elf communities set great store by keeping the bloodline pure — and leads both the Church of the Founders and the Chosen of Aethos. She sees no contradiction between the two roles — to her, reverence for the Founders and the will to seize their legacy by force are the same conviction, just aimed in different directions. She rules the Chosen with the same absolute certainty she preaches from the Church's pulpit, and treats any artifact or magic metal outside Vael's collection as an oversight to be corrected. [Dranus Dovo](../../characters/dranus_dovo.md) is her most persistent rival for both — his fortune lets him outbid or outmaneuver the Chosen as often as they beat him to a find.
+See [Isaera](../../characters/isaera.md) for the High Elf who leads both the Church of the Founders and the Chosen of Aethos.
