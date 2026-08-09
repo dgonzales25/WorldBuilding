@@ -21,7 +21,7 @@ Many sub groups of the Ancestors were specialized to do specific tasks within th
 * [Humans](Humans.md) - Farming and livestock
 * [Blood Elves](Blood%20Elves.md) - Handled extraction
 * [High Elves](High%20Elves.md) - Oversaw and administered the other groups
-If quotas weren't met or as punishment they would be sent to become extracted
+If quotas weren't met or as punishment they would be sent to become extracted — told it was a reassignment, never that it meant [Void](../../moko/void/void.md)
 
 After the [Virus War](../Founders.md#virus-war) these sub groups had to fill in the missing gaps that their society's lacked due to the control of the Founders.
 
