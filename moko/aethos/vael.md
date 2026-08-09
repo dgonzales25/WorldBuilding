@@ -4,7 +4,7 @@
 
 ## Overview
 
-The oldest and largest city in all of [Aethos](aethos.md). This city is home to the largest supply of Founder artifacts due to the Church of the Founders collecting them over the years. The city is created on top of an old Founders [Magic Metal](../../misc/Magic%20Metal.md) harvesting station. This station would extract the magic metal from the scale teeth of the [Fangwurms](../../biomes/eurytopic/fauna/Fangwurms.md).
+The oldest and largest city in all of [Aethos](aethos.md). This city is home to the largest supply of Founder artifacts due to the Church of the Founders collecting them over the years. The city is built on top of an old Founders [Magic Metal](../../misc/Magic%20Metal.md) forge. [Fangwurm](../../biomes/eurytopic/fauna/Fangwurms.md) teeth were refined into Magic Metal at the processing station on [Void](../void/void.md) and shipped here already finished — this station's job was forging that metal into something, not extracting it in the first place.
 
 ## Government
 
