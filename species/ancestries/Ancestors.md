@@ -23,7 +23,7 @@ Many sub groups of the Ancestors were specialized to do specific tasks within th
 * [High Elves](High%20Elves.md) - Oversaw and administered the other groups
 If quotas weren't met or as punishment they would be sent to become extracted — told it was a reassignment, never that it meant [Void](../../moko/void/void.md)
 
-Charging [Magic Metal batteries](../../misc/Magic%20Metal.md#batteries) for the Founders' teleporters and lev trains was labor pulled from all the sub groups rather than one — flaring your own reserves into a battery all shift, then doing it again the next day.
+Charging [Magic Metal batteries](../../misc/Magic%20Metal.md#batteries) for the Founders' machines was labor pulled from all the sub groups rather than one — flaring your own reserves into a battery all shift, then doing it again the next day.
 
 After the [Virus War](../Founders.md#virus-war) these sub groups had to fill in the missing gaps that their society's lacked due to the control of the Founders.
 
