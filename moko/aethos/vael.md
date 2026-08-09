@@ -14,7 +14,7 @@ Believe that the founders were a type of older sibling looking after the younger
 
 ### Chosen of Aethos
 
-The Chosen of Aethos are the Church's militant arm. Where the Church collects and reveres Founder relics, the Chosen go out and take them — hunting down [Founder](../../species/Founders.md) artifacts and [Magic Metal](../../misc/Magic%20Metal.md) wherever they can be found and hoarding them back to Vael. To the Chosen, artifacts and magic metal aren't just relics to be studied; they're leverage, and the group uses that leverage to buy influence in the constant political conflict between Aethos's city-states.
+The Chosen of Aethos are the Church's militant arm, led by [Isaera](#isaera). Where the Church collects and reveres Founder relics, the Chosen go out and take them — hunting down [Founder](../../species/Founders.md) artifacts and [Magic Metal](../../misc/Magic%20Metal.md) wherever they can be found and hoarding them back to Vael. To the Chosen, artifacts and magic metal aren't just relics to be studied; they're leverage, and the group uses that leverage to buy influence in the constant political conflict between Aethos's city-states.
 
 They don't ask permission. Villages, ruins, and rival city-states that hold Founder tech or magic metal are treated as fair game, and anyone who hides a find from them is treated as an enemy of the Church. They are feared as much as the Church is respected.
 
