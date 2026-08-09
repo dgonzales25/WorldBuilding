@@ -8,7 +8,7 @@ Umbro Augusto (also known as the Shark of Raxmar) leads one of the most powerful
 
 ## Origin
 
-Born to druid parents in a druidic enclave in [Flergburg](../moko/aethos/flergburg.md), Umbro quickly picked up the druidic ways — until the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos) learned his parents were guarding a map to a hidden supply of magical artifacts (not an artifact itself; a Flerg would never leave something that magically dense sitting hidden on its own back) and raided the enclave for it, led personally by [Isaera](../moko/aethos/vael.md#isaera).
+Born to druid parents in a druidic enclave in [Flergburg](../moko/aethos/flergburg.md), Umbro quickly picked up the druidic ways — until the [Chosen of Aethos](../moko/aethos/vael.md#chosen-of-aethos) learned his parents were guarding a map to a hidden supply of magical artifacts (not an artifact itself; a Flerg would never leave something that magically dense sitting hidden on its own back) and raided the enclave for it, led personally by [Isaera](isaera.md).
 
 His parents saw the raid coming. Before it reached them, they hid Umbro away and passed him the map, so when Isaera razed the enclave believing she'd erased everyone who knew of it, the map walked out with a child she never found.
 
