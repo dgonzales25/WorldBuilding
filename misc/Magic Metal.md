@@ -24,6 +24,14 @@ Magic metal is extremely hard but not impossible to scratch. Stronger than all o
 
 
 
+## Batteries
+
+The [Founders](../species/Founders.md) had no innate magical ability of their own, so they industrialized [Absorption](#absorption) into a standard unit: a slab of magic metal cast to a uniform size and shape that would drop into any reactor, teleporter, or lev train skid across their empire. A battery didn't need to be pure — diluting it with other metals just meant it held proportionally less charge for the same size, an acceptable tradeoff for something manufactured by the thousand.
+
+Since the Founders couldn't push magical energy into anything themselves, charging batteries was manual labor — Ancestors flaring their own reserves directly into the lattice. It cost the charger the same way any other use of magic does, effort like flexing a muscle with a hard ceiling on how much any one person could push through in a shift (see [Magic — Processing](Magic.md#processing)), so a single charger could never approach what a battery could hold. Batteries were charged by rotating crews over days, not moments.
+
+Once charged, a battery behaved like any other magic metal — decaying slowly and needing recharging again once it ran too low to feed a reactor reliably. That slow bleed is why the network needed a standing charging workforce rather than a one-time supply: teleporters and lev train reactors were burning through charge continuously, and someone always had to be flaring the next batch to replace the ones running down.
+
 ## Forging
 Magic metal can be combined with other non magical metals to dilute it but can not be combined with metals that have a different magic metal source. This means that large chunks of magic metal are extremely valuable since the size of pure magic metal can not be increased.
 

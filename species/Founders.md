@@ -13,6 +13,7 @@ The Founders are an ancient alien race of heavily cybernetically augmented being
 - Domesticated planets
 - Farmed inhabitants for natural resources
 - Introduced vampirism and drugs to increase efficiency
+- Conscripted Ancestors to hand-charge [Magic Metal batteries](../misc/Magic%20Metal.md#batteries), since the Founders had no magic of their own
 
 ## Virus War
 
