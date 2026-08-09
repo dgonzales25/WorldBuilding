@@ -1,4 +1,4 @@
-[Home](../Home.md)
+[Home](../Home.md) · [Characters](Characters.md)
 
 # Dranus Dovo
 
