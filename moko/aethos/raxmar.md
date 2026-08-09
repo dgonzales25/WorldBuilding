@@ -6,6 +6,8 @@
 
 Raxmar is a port full of pirates and bandits. 
 
-## Government 
+## Government
 
-The Pirate King rules over the land. Anyone can kill the pirate king to become the new king. The current Pirate King is Umbro Augusto
+There's no single ruler. Raxmar is carved up between rival gangs and pirate crews, each holding their own docks, streets, or warehouses, with turf wars and shifting alliances a constant fact of life. A city government sits nominally above them, but it's thoroughly corrupt — bribed into looking the other way more often than not, and rarely strong enough to do much else even when it isn't.
+
+[Umbro Augusto](../../characters/umbro_augusto.md), the Shark of Raxmar, leads one of the city's most powerful crews.
