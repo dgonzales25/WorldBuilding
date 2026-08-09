@@ -6,6 +6,10 @@
 
 The oldest and largest city in all of [Aethos](aethos.md). This city is home to the largest supply of Founder artifacts due to the Church of the Founders collecting them over the years. The city is created on top of an old Founders [Magic Metal](../../misc/Magic%20Metal.md) harvesting station. This station would extract the magic metal from the scale teeth of the [Fangwurms](../../biomes/eurytopic/fauna/Fangwurms.md).
 
+## Government
+
+Vael is a theocracy. The Church of the Founders doesn't just hold religious authority — it rules the city outright, with [Isaera](#isaera) sitting at the head of both. There's no separate secular ruler to appeal to; Church doctrine and city law are the same thing.
+
 ## Religion
 
 ### Church of the Founders
