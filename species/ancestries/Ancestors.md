@@ -17,9 +17,12 @@ Drugs have evolved with humanoid. Drugs vary in lots of ways
 # Sub groups
 Many sub groups of the Ancestors were specialized to do specific tasks within the hierarchy of the [Founders'](../Founders.md) constructed society
 * [Dwarves](Dwarves.md) - Refined magic metal
+* [Gnomes](Gnomes.md) - Maintained the Founders' machines
 * [Wood Elves](Wood%20Elves.md) - Grew food and drugs
 * [Humans](Humans.md) - Farming and livestock
+* [Goliaths](Goliaths.md) - Heavy labor: canyon excavation and hauling
 * [Blood Elves](Blood%20Elves.md) - Handled extraction
+* [Orcs](Orcs.md) - Enforced quotas and administered "reassignment"
 * [High Elves](High%20Elves.md) - Oversaw and administered the other groups
 If quotas weren't met or as punishment they would be sent to become extracted — told it was a reassignment, never that it meant [Void](../../moko/void/void.md)
 
