@@ -6,3 +6,7 @@ Blood elves are [Ancestors](Ancestors.md). They are vampiric and feed off the bl
 Their cities are hidden but they are magnificent blends of nature and cities. The elves know that the magic metal is made from the souls of people. Distrust the Mages and Paladins because of their fascination with magic metal.
 
 They have a few people who still know how magic metal is created.
+
+## Society Flaws
+
+Persecution and their own secrecy have turned Blood Elf society inward. Sunlight sensitivity and the ban on feeding on humanoids keep most Blood Elves confined to Mysthaven, and outsiders — Mages and Paladins especially — are treated with automatic suspicion for their fascination with magic metal, discouraging trade or alliance even when it would help. Knowledge of how magic metal is actually made has been deliberately hoarded down to a handful of elders, so the rest of Blood Elf society lives with a founding secret it isn't trusted to know, breeding quiet resentment between the informed few and everyone else.
