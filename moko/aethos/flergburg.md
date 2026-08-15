@@ -8,7 +8,7 @@ Flergburg is a massive city built on the back of a single giant [Flerg](../../bi
 
 ## People
 
-Flergburg's magical leaning is toward nurturing and bending nature rather than conflict. Its people can put up some defense if pressed, but they are not a fighting people — their strength lies in coaxing living things, their Flerg included, into doing what the city needs.
+Flergburg's magical leaning is toward nurturing and bending nature rather than conflict. Its people, predominantly [Wood Elves](../../species/ancestries/Wood%20Elves.md), can put up some defense if pressed, but they are not a fighting people — their strength lies in coaxing living things, their Flerg included, into doing what the city needs.
 
 ## Neutrality
 

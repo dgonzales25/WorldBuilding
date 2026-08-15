@@ -1,6 +1,6 @@
 # Overview 
 
-This is a group that forged magic metal for the founders 
+This is a group that forged magic metal for the founders. Most Dwarves now live in [Vall](../../moko/dorath/vall.md), where they carved their cities into the mountains to escape the cold.
 
 ## Society Flaws
 

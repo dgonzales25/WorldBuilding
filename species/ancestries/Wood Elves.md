@@ -1,5 +1,5 @@
 # Overview 
-Wood elves tended to the growing of food to feed the other [Ancestor](Ancestors.md) groups — and the drugs.
+Wood elves tended to the growing of food to feed the other [Ancestor](Ancestors.md) groups — and the drugs. Many now live in [Flergburg](../../moko/aethos/flergburg.md), a city grown on the back of a single massive Flerg.
 
 ## Society Flaws
 

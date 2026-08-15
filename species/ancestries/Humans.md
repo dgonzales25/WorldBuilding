@@ -1,5 +1,5 @@
 # Overview 
-Humans grew farmed and had livestock 
+Humans grew farmed and had livestock. Many now call [Hexguard](../../moko/aethos/hexguard.md) home, a city known for the same fast, ambitious, consequences-later streak Humans are known for.
 
 ## Society Flaws
 

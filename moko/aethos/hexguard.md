@@ -6,7 +6,7 @@
 A large city surrounded by mountains on all but one side. Cold weather and mild summers.
 
 ## General
- [Dranus Dovo](../../characters/dranus_dovo.md) built his empire here, using his artificer talents to mass-manufacture machines. Basic work that would normally be unskilled labor is getting automated. This is causing internal conflict since there are those who have no automate able skills and those who are unemployed. Very rich society due to the export of weapons to the [Vall](../dorath/vall.md)
+Predominantly [Human](../../species/ancestries/Humans.md), and it shows: Hexguard is a city of reckless innovation, moving fast and chasing the next invention without much patience for who gets left behind by it. [Dranus Dovo](../../characters/dranus_dovo.md) built his empire here, using his artificer talents to mass-manufacture machines. Basic work that would normally be unskilled labor is getting automated. This is causing internal conflict since there are those who have no automate able skills and those who are unemployed. Very rich society due to the export of weapons to the [Vall](../dorath/vall.md)
 
 ## Government
 A democracy but the wealthy class controls all the seats so the poor are unrepresented in the government. 
