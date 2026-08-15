@@ -4,7 +4,7 @@
 
 ## Overview
 
-Raxmar is a port full of pirates and bandits. Its crews are as mixed as its cargo — every [Ancestor](../../species/ancestries/Ancestors.md) group is represented somewhere on Raxmar's docks, since a port that lives off people passing through has never had the luxury of turning trade away over bloodline.
+Raxmar is a port full of pirates and bandits. Its crews are as mixed as its cargo — every [Ancestor](../../species/ancestries/Ancestors.md) group is represented somewhere on Raxmar's docks, since a port that lives off people passing through has never had the luxury of turning trade away over bloodline. [Orcs](../../species/ancestries/Orcs.md) are especially common among its bounty hunters and enforcers-for-hire, one of the few trades in Aethos that's never asked what an Orc's ancestry means for the job.
 
 ## Government
 
