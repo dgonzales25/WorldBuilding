@@ -20,4 +20,4 @@ The [Hubris Virus](../ages/Age%20%282%29%20of%20Hubris.md), created by a group o
 
 EMPs were used to kill opposing Founders, since they'd become reliant on their machines to stay alive. Only those underwater at the time of the EMP were able to survive, but their society was destroyed.
 
-The few remaining Founders and Fangwurms on their homeworld died since they had no way to fix the teleporters on the other planets and ran out of Magic Metal to make batteries. They replaced the batteries of the teleporters on their homeworld, but never got the other planets reconnected.
+The few remaining Founders and Fangwurms on their homeworld died since they had no way to restart the orbital stations on the other planets and ran out of Magic Metal to make batteries. Reaching another world meant a ship, and a ship meant a powered dock waiting at the far end — there was nobody left on those worlds to bring one back up. They replaced the batteries of the stations over their own world, but never got the other planets reconnected.

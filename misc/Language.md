@@ -6,7 +6,7 @@
 
 The [Founders](../species/Founders.md) imposed one administrative language across the whole [Solar System](../solar-system/Solar%20System.md), the way any empire running quotas, shipping manifests, and a rail network has to. Everyone spoke it because everyone worked for them. It is still called **the Standard**.
 
-The Founders died in the [Virus War](../species/Founders.md#virus-war) and took the thing holding the Standard together with them. Three thousand years, a dark age, and a severed teleporter network later, every region speaks a drifted version of the same language — mutually intelligible, obviously related, and full of local giveaways. The relationship is US/UK/Australian English, not English/German. A [Vall](../moko/dorath/vall.md) dwarf and a [Vael](../moko/aethos/vael.md) priest understand each other fine and can each tell within a sentence where the other is from.
+The Founders died in the [Virus War](../species/Founders.md#virus-war) and took the thing holding the Standard together with them. Three thousand years, a dark age, and a dead transit network later, every region speaks a drifted version of the same language — mutually intelligible, obviously related, and full of local giveaways. The relationship is US/UK/Australian English, not English/German. A [Vall](../moko/dorath/vall.md) dwarf and a [Vael](../moko/aethos/vael.md) priest understand each other fine and can each tell within a sentence where the other is from.
 
 This document is the standard pattern for coining names. The short version: **there are two layers, and which layer a name comes from tells you when it was named and by whom.**
 
@@ -179,7 +179,7 @@ No living dialect. [Void](../moko/void/void.md) kept its Founder place-names and
 
 ### Off-world
 
-The teleporters died with the Founders and each world's Standard has run isolated for three thousand years.
+The ships stopped with the Founders and each world's Standard has run isolated for three thousand years.
 
 - **[Heaven](../solar-system/cinder/Heaven.md)** preserved the Founders' rank-and-command register with obsessive fidelity — a legion maintaining a chain of command maintains the language that encodes it. Heaven's Standard is the closest thing left to what the Founders actually sounded like, fossilized in ranks, codes, and titles.
 - **[Hell](../solar-system/cinder/Hell.md)** discarded it. Where there's no law there's no need for the language of law, and Hell's speech has stripped down to what's needed to threaten, bargain, and lie.
