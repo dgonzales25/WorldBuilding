@@ -20,6 +20,10 @@ See the [Solar System](solar-system/Solar%20System.md) for the full write-up.
 - [Age (3) of Darkness](ages/Age%20%283%29%20of%20Darkness.md)
 - [Age (4) of Magic](ages/Age%20%284%29%20of%20Magic.md)
 
+## Language
+
+See [Language and Naming](misc/Language.md) for the standard the [Founders](species/Founders.md) imposed, its regional dialects, and the pattern for coining new names.
+
 ## Plot
 
 See [Plot](plot/Plot.md) for the campaign outline.
