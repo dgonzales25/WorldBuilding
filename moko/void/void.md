@@ -10,7 +10,7 @@ The test never really ended. Once the Founders saw how thoroughly Fangwurms coul
 
 ## The Quota
 
-[Ancestors](../../species/ancestries/Ancestors.md) who missed a quota, or were being punished, were marked for extraction. Overseers called it a reassignment — a transfer to a frontier colony, a new posting, whatever story fit that week — and put them on a transport that only ever went one way. Nobody boarding it knew "extraction" meant Void, or that Void meant Fangwurms.
+[Ancestors](../../species/ancestries/Ancestors.md) who missed a quota, or were being punished, were marked for extraction. Most were pulled straight off [Aethos's](../aethos/aethos.md) farms and pastures — [Wood Elves](../../species/ancestries/Wood%20Elves.md) and [Humans](../../species/ancestries/Humans.md) working quotas they had no way to verify, marked by the same [Orc](../../species/ancestries/Orcs.md) overseers who administered the rest of the continent's labor. Overseers called it a reassignment — a transfer to a frontier colony, a new posting, whatever story fit that week — and put them on a transport that only ever went one way. Nobody boarding it knew "extraction" meant Void, or that Void meant Fangwurms.
 
 Feeding condemned people to Fangwurms on a continent already stripped of its ecosystem solved two problems the same way: it let the Founders keep making Magic Metal without spending down the labor they needed on farms and mines elsewhere, and it kept the Fangwurms somewhere that losing control of them wouldn't cost anything. A continent already dead had nothing left to lose.
 

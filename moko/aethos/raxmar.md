@@ -4,7 +4,7 @@
 
 ## Overview
 
-Raxmar is a port full of pirates and bandits. 
+Raxmar is a port full of pirates and bandits. Its crews are as mixed as its cargo — every [Ancestor](../../species/ancestries/Ancestors.md) group is represented somewhere on Raxmar's docks, since a port that lives off people passing through has never had the luxury of turning trade away over bloodline.
 
 ## Government
 

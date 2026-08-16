@@ -6,6 +6,10 @@
 
 Aethos has no unified government and is made up of many different city states.
 
+## Founders' Era
+
+Under the Founders, Aethos was farmland — [Wood Elves](../../species/ancestries/Wood%20Elves.md) growing food and drugs, [Humans](../../species/ancestries/Humans.md) tending livestock, all of it administered by [High Elves](../../species/ancestries/High%20Elves.md) overseeing quotas out of what would become Vael. When a farm or a herd came up short, [Orcs](../../species/ancestries/Orcs.md) were the ones sent to sort out who was responsible and put them on a transport — told they were being moved up to better work, never that "better work" meant [Void](../void/void.md). Aethos processed its own people that way for generations before anyone left alive understood what the transports actually meant.
+
 - [Hexguard](hexguard.md)
 - [Vael](vael.md)
 - [Raxmar](raxmar.md)
